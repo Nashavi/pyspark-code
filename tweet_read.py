@@ -17,10 +17,10 @@ import json
 
 # In[ ]:
 
-consumer_key = '0nylmq4q4mkeDl0JdE02b2h2f'
-consumer_secret = '9kpsyX5pZh2IWhaRdzJpocAgdvJAuibCXErLlr4ev5VxxUrRIx'
-access_token = '435092753-jd5rFG3YmpCBMkJ0Igjwh03LwPW0TB7UO2ONKGdy'
-access_secret ='YXUVdubwV1nev9moThUvGC3OBxQDAMUSpghLhZpjb1q6Z'
+consumer_key = ''
+consumer_secret = ''
+access_token = '-'
+access_secret =''
 
 
 # In[ ]:
